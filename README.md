@@ -10,8 +10,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-   cd <ИМЯ_ПАПКИ_РЕПОЗИТОРИЯ>
+   git clone https://github.com/MityaiGer/dalee-telegram-bot
+   cd dalee-telegram-bot
    ```
 2. **Создайте и заполните файл `.env`:**
    ```env
